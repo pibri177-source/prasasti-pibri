@@ -1,0 +1,6 @@
+{
+  "name": "TaniMakmur - Marketplace & POS Pertanian UMKM",
+  "description": "Sistem Terintegrasi Marketplace Online dan Kasir POS untuk UMKM Obat Pertanian dan Bibit Unggul dengan IndexedDB",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
